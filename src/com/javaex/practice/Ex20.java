@@ -38,10 +38,9 @@ public class Ex20 {
 				}
 			}else {
 				System.out.println("더 낮게");
-			}
-			sc.close();
-			
+			}		
 		}
+		sc.close();
 	}
 
 }
