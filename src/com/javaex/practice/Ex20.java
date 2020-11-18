@@ -40,6 +40,7 @@ public class Ex20 {
 				System.out.println("더 낮게");
 			}		
 		}
+		
 		sc.close();
 	}
 
